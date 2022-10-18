@@ -6,6 +6,7 @@
 * @i: base 10 int
 * Return: number of printed digits
 */
+
 int print_d(va_list i)
 {
 	int a[10];
