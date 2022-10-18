@@ -6,11 +6,11 @@
 * @X: char
 * Return: number of digit printed
 */
+
 int print_X(va_list X)
 {
 	unsigned int a[8];
 	unsigned int s, e = 268435456, m, sum = 0;
-
 	char diff;
 	int count;
 
