@@ -2,7 +2,7 @@
 #include <stdarg.h>
 
 /**
-* check_specifiers - checks if there is a valid format specifier
+* check_specifiers - checks if there is valid format specifier
 * @format: possible format specifier
 * Return: pointer to valid function or NULL
 */
