@@ -6,6 +6,7 @@
 * @r: string
 * Return: number of characters printed
 */
+
 int print_r(va_list r)
 {
 	char *str;
