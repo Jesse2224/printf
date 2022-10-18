@@ -5,6 +5,7 @@
 * @o: unsigned int
 * Return: number of digits printed
 */
+
 int print_o(va_list o)
 {
 	unsigned int a[11];
