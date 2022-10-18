@@ -6,6 +6,7 @@
 * @x: char to print
 * Return: number of printed characters
 */
+
 int print_x(va_list x)
 {
 	unsigned int a[8];
